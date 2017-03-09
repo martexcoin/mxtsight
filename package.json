@@ -1,10 +1,10 @@
 {
   "name": "mxtsight",
-  "description": "An open-source frontend for the MXTsight API. The MXTsight API provides you with a convenient, powerful and simple way to query and broadcast data on the Martexcoin network and build your own services with it.",
+  "description": "An open-source frontend for the MXTsight API. The MXTsight API provides you with a convenient, powerful and simple way to query and broadcast data on the martexcoin network and build your own services with it.",
   "version": "0.2.6",
   "author": {
-    "name": "Larry Ren",
-    "email": "ren@martexcoin.com"
+    "name": "Marciano Valverde",
+    "email": "martexcoin@martexcoin.org"
   },
   "repository": "git://github.com/martexcoin/mxtsight.git",
   "contributors": [
